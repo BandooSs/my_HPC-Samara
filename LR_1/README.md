@@ -31,5 +31,5 @@
 | 1900x1900 | 2743.371253013611	 | 2.2281675338745117 |
 | 2000x2000 | 3337.6133873462677	 | 2.4653019428253174  |
 
-
-![Alt-текст](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
+На рисунке предствален график время работы программы на CPU и GPU. 
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
