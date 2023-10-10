@@ -36,3 +36,6 @@
 ![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
 
 На рисунке представлен график ускорения работы программы на GPU по сравнению с CPU:
+
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Ускорение.jpg)
+
