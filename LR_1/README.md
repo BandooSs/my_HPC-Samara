@@ -32,4 +32,4 @@
 | 2000x2000 | 3337.6133873462677	 | 2.4653019428253174  |
 
 
-[Alt-текст](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
+![Alt-текст](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
