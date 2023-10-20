@@ -30,13 +30,25 @@
 
 
 
-На рисунке предствален график ускорения работы (GridDim, BlockDim) = (512,512): 
+На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при (GridDim, BlockDim) = (512,512): 
 
 ![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/512.jpg)
 
-На рисунке представлен график ускорения работы программы на GPU по сравнению с CPU:
+На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при (GridDim, BlockDim) = (1024,512): 
 
-![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Ускорение.jpg)
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/1024.jpg)
+
+На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при (GridDim, BlockDim) = (2048,512): 
+
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/2048.jpg)
+
+На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при (GridDim, BlockDim) = (4096,512): 
+
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/4096.jpg)
+
+На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при (GridDim, BlockDim) = (8192,512): 
+
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/8192.jpg)
 
 Результаты указывают на то, что при увеличении размерности матриц ускорение работы на GPU становится более выраженным (большим).  
 
