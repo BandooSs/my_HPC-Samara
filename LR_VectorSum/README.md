@@ -32,7 +32,7 @@
 
 На рисунке предствален график ускорения работы (GridDim, BlockDim) = (512,512): 
 
-![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_1/Время_CPU_GPU.jpg)
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_VectorSum/512.jpg)
 
 На рисунке представлен график ускорения работы программы на GPU по сравнению с CPU:
 
