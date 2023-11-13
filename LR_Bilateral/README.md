@@ -35,11 +35,11 @@
 
 На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при GridDim (2,2) и BlockDim(5,5): 
 
-![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_Bilateral/2x2.jpg)
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_Bilateral/result/2x2.jpg)
 
 На рисунке предствален график ускорения работы  программы на GPU по сравнению с CPU  при GridDim (4,4) и BlockDim(8,8): 
 
-![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_Bilateral/4x4.jpg)
+![График](https://github.com/BandooSs/my_HPC-Samara/blob/main/LR_Bilateral/result/4x4.jpg)
 
 
 
